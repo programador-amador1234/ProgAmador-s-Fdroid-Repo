@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fdroid>
+  <repo>
+    <name>ProgAmador's F-Droid Repo</name>
+    <description>Repositório F-Droid mantido por programador-amador1234</description>
+    <address>https://github.com/programador-amador1234/ProgAmador-s-Fdroid-Repo</address>
+    <icon>repo-icon.png</icon>
+    <timestamp>2025-10-02T01:59:31Z</timestamp>
+    <version>1</version>
+  </repo>
+  <application>
+    <id>com.exemplo.app</id>
+    <name>App Exemplo</name>
+    <summary>Um app de exemplo para o repositório</summary>
+    <icon>com.exemplo.app/icon.png</icon>
+    <description>
+      Este é um app de exemplo adicionado ao repositório ProgAmador's F-Droid Repo.
+    </description>
+    <license>GPL-3.0-or-later</license>
+    <webpage>https://github.com/programador-amador1234/app-exemplo</webpage>
+    <author>programador-amador1234</author>
+    <package>
+      <version>1.0.0</version>
+      <versioncode>1</versioncode>
+      <apkname>com.exemplo.app_1.apk</apkname>
+      <hash type="sha256">abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890</hash>
+      <size>1234567</size>
+      <sdkver>21</sdkver>
+      <targetSdkVersion>33</targetSdkVersion>
+      <sig>MIIBIjANBgkq...SeuCertificadoAqui...</sig>
+      <added>2025-10-02</added>
+    </package>
+  </application>
+</fdroid>
