@@ -1,0 +1,23 @@
+# Arquivo de configuração repo.yml para o repositório F-Droid
+# https://github.com/programador-amador1234/ProgAmador-s-Fdroid-Repo
+
+# Título do repositório
+repo:
+  name: "ProgAmador's F-Droid Repo"
+  description: "Repositório alternativo F-Droid mantido por programador-amador1234. Aplicativos Android compilados, atualizados e mantidos pela comunidade."
+  address: "https://programador-amador1234.github.io/ProgAmador-s-Fdroid-Repo/fdroid/repo"
+  icon: "fdroid-icon.png"   # Substitua pelo nome do ícone desejado ou remova se não for usar
+  web: "https://programador-amador1234.github.io/ProgAmador-s-Fdroid-Repo/"
+  email: "joojsilvaoficial@gmail.com" # Substitua pelo e-mail de contato desejado
+  fingerprint: "" # Preencha após gerar a chave GPG para o repo
+
+# Lista opcional de mantenedores
+maintainers:
+  - name: "programador-amador1234"
+    email: "joojsilvaoficialgmail.com"
+    github: "https://github.com/programador-amador1234"
+
+# Recomendações
+# - Adicione o fingerprint após criar sua chave GPG para o repo.
+# - Atualize o endereço caso mude a URL do repo.
+# - O campo "icon" é opcional e pode ser removido se não for utilizado.
